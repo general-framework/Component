@@ -1,4 +1,4 @@
-import CasePaths`
+import CasePaths
 
 //(inout RandomNumberGenerator) -> A
 struct Gen<A> {
